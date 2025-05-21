@@ -18,6 +18,8 @@ Feel free to check out my projects or reach out on LinkedIn : https://www.linked
 
 
 <!--
+🛠️ **Tools & Technologies**  
+Python • R • SQL • Tableau • Power BI • Matplotlib • Pandas • NumPy • Scikit-learn • NLP
 **Sabah-Khan/Sabah-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
