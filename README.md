@@ -16,15 +16,21 @@ Python, SQL, R, NLP, Predictive Modelling and advanced data visualization techni
 
 Feel free to check out my projects or reach out on LinkedIn : https://www.linkedin.com/in/sabah-arshi-khan/
 
-### 🛠️ Tools & Technologies
-### 🧠 Programming & Analytics  
-🟡 Python • 🔵 R • 🟣 SQL
+### 🧰 Tech Skills
 
-### 📊 Visualisation Tools  
-🧡 Tableau • 💛 Power BI • 🔵 Matplotlib
+🧠 Programming & Analytics
+Python • R • SQL
 
-### 📦 Libraries & Skills  
-🧪 Pandas • 🧮 NumPy • 🔍 Scikit-learn • 🗣 NLP • 📈 Predictive Modelling
+📊 Visualisation Tools
+Tableau • Power BI • Matplotlib • Plotly • Canva
+
+📦 Libraries & Skills
+Pandas • NumPy • Scikit-learn • NLP • Predictive Modelling • Machine Learning • Deep Learning
+
+🧩 Project & Workflow Tools
+Trello • Jira
+
+
 
 
 
