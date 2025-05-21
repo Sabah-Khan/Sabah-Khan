@@ -17,7 +17,6 @@ Python, SQL, R, NLP, Predictive Modelling and advanced data visualization techni
 Feel free to check out my projects or reach out on LinkedIn : https://www.linkedin.com/in/sabah-arshi-khan/
 
 
-<!--
 🛠️ **Tools & Technologies**  
 Python • R • SQL • Tableau • Power BI • Matplotlib • Pandas • NumPy • Scikit-learn • NLP
 **Sabah-Khan/Sabah-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
