@@ -18,17 +18,17 @@ Feel free to check out my projects or reach out on LinkedIn : https://www.linked
 
 ### 🧰 Tech Skills
 
-🧠 Programming & Analytics
+🧠 Programming & Analytics :
 Python • R • SQL
 
-📊 Visualisation Tools
+📊 Visualisation Tools :
 Tableau • Power BI • Matplotlib • Plotly • Canva
 
-📦 Libraries & Skills
+📦 Libraries & Skills :
 Pandas • NumPy • Scikit-learn • NLP • Predictive Modelling • Machine Learning • Deep Learning
 
-🧩 Project & Workflow Tools
-Trello • Jira
+🧩 Project & Workflow Tools :
+Trello • Jira 
 
 
 
