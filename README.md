@@ -4,11 +4,11 @@ I'm an MSc Business Analytics graduate with a background in core machine learnin
 
 ### 📚 Actively developing skills in :
 
-Python, SQL, R, NLP, Predictive Modelling and advanced data visualization techniques (Tableau & Power BI)
+Python, SQL, R, NLP, Predictive Modelling and advanced Data Visualization techniques (Tableau & Power BI)
 
 ### 🎯 Goals:
 
-* Collaborate on data or business analytics projects
+* Collaborate on data and business analytics projects
 * Improve my coding and data storytelling skills
 * Connect with people who are also passionate about data analytics 
 
@@ -29,6 +29,7 @@ Pandas • NumPy • Scikit-learn • NLP • Predictive Modelling • Machine L
 
 🧩 Project & Workflow Tools
 Trello • Jira
+
 
 
 
