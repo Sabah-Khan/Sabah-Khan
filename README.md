@@ -1,4 +1,4 @@
-## 👋 Hi!
+## Hi!
 
 I'm an MSc Business Analytics graduate with a background in core machine learning and data analytics concepts. I'm passionate about applying analytics to solve real-world problems by developing data-driven projects and delivering meaningful insights through visualisations.
 
